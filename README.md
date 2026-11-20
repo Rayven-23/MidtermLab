@@ -22,7 +22,7 @@
 - 🚀 Always looking forward to improving myself.
 - ✨ Welcome to my digital world!
 
-  |:--|:--|
+  
 | **Lab Task 1: Using 2 dimensional arrays** | [Lab-Task1](LabTask1rayvencalma.pdf) |
 
 | **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2](LabTask_2.pdf) |
