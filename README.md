@@ -1,5 +1,5 @@
 # MidtermLab
-hi
+
 <h1 align="center">🖤 Hello, I'm Rayven Calma</h1>
 
 <h3 align="center"> Welcome to My GitHub Profile </h3>
