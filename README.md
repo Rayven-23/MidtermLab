@@ -27,7 +27,7 @@
 
 | **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2](LabTask_2.pdf) |
 
-| **Lab Task 3: ** | [Lab-Task2]() |
+| **Lab Task 3: ** | [Lab-Task2](StudentGradeMan) |
 
 
 ---
